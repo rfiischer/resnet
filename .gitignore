@@ -133,3 +133,6 @@ dmypy.json
 
 # Zip
 *.zip
+
+# Images
+*.png
